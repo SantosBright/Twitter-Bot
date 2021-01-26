@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Simple twitter bot with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosBright/Twitter-Bot.git"
+  },
+  "keywords": [
+    "node",
+    "twitter",
+    "twitterbot"
+  ],
+  "author": "Santos Bright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosBright/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/SantosBright/Twitter-Bot#readme"
+}
